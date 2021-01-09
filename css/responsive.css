@@ -1,0 +1,11 @@
+@media screen and (max-width: 991px){
+    .navbar-nav li.nav-item{
+        margin:15px 0;
+        text-align: center;
+    }
+    a.navbar-brand{
+        margin-left:.75rem;
+    }
+}@media screen and (max-width: 991px){
+    
+}
